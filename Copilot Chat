@@ -1,0 +1,10 @@
+Write a Python program that reads a Loans CSV file and determines the top two most common loan reasons for each age range.
+Use only built-in Python (csv module, sets, tuples).
+
+Requirements:
+
+Find all unique age ranges using a set.
+
+For each age range, count how many times each loan reason appears.
+
+Create a tuple for each age range in the form: (age_range, top_reason_1, top_reason_2).
